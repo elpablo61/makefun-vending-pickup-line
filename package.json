@@ -1,0 +1,1 @@
+{"description":"One vending-machine pickup line for the make.fun One Line, One Minute contest","license":"MIT","name":"makefun-vending-pickup-line","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
